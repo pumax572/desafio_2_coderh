@@ -1,3 +1,6 @@
+alert("Esta es una simple calculadora");
+
+
 function limpiar(){
     document.getElementById('miFormulario').reset();
 }
